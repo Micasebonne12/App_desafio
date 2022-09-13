@@ -1,0 +1,17 @@
+.alumno{
+    display: flex;
+    justify-content: center;
+    border: rgb(15, 14, 14);
+    width: 200px;
+    background-color: #eee;
+    border: 0;
+}
+
+.numero{
+    display: flex;
+    justify-content: center;
+    border: rgb(15, 14, 14);
+    width: 200px;
+    background-color: #eee;
+    border: 0;
+}
